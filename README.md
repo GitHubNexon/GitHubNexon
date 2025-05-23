@@ -1,5 +1,35 @@
-# 💫 About Me:
-I'm currently working on Mobile apps and websites<br>I'm looking to collaborate on Open Source Projects<br>I'm Looking for help with Mobile App Development<br>Ask me About Full Stack Development<br>
+# 💫 About Me
+
+Hi, I'm **John Mark Pulmano** – a passionate Full Stack Developer and Tech Enthusiast.  
+I'm currently focused on building high-performance **mobile apps** and **responsive web applications**.  
+🚀 I thrive on solving complex problems and creating meaningful digital experiences.
+
+- 🔭 Currently working on Mobile Apps and Web Projects  
+- 🤝 Open to Collaborating on Open Source Projects  
+- 🧠 Eager to learn more about Mobile App Architectures and Scalable Backend Systems  
+- 🧩 Ask me anything about Full Stack Development or cross-platform tools  
+- 📝 Occasionally blog about development tips and dev life  
+- 🎮 Gamer at heart, streamer on the side  
+
+---
+
+## 🧰 Tools & Workflow
+
+- 💡 Agile/Scrum, CI/CD pipelines, GitHub Actions  
+- 📦 Code Versioning: Git, GitHub, Bitbucket  
+- 🧪 Testing: Jest, Cypress, Mocha  
+- 🔐 Secure DevOps Practices, OAuth, JWT  
+- 🌐 Deployments on: AWS, Firebase, Render, Vercel  
+- 🎨 UI/UX: Figma, Framer, Chakra UI, TailwindCSS  
+
+---
+
+## 📌 Featured Projects
+
+- 🌐 ** Luntian---An-AI-powered-Plant-disease-Detection-By-YOLO ** – React + Tailwind + Vercel  
+- 📱 **HyperScrope News App** – React Native + newsApi.org  
+
+> Check out my pinned projects for live demos and code!
 
 
 ## 🌐 Socials:
@@ -70,8 +100,3 @@ I'm currently working on Mobile apps and websites<br>I'm looking to collaborate 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GitHubNexon&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=GitHubNexon&icon=0&color=0)](https://visitcount.itsvg.in)
