@@ -26,9 +26,9 @@ I'm currently focused on building high-performance **mobile apps** and **respons
 
 ## 📌 Featured Projects
 
-- ** Luntian---An-AI-powered-Plant-disease-Detection-By-YOLO (Plant Disese Detection System)** – MERN + Python + RaspberryPi + LLM [meta/llama] + OpenAI  
+- ** Luntian---An-AI-powered-Plant-disease-Detection-By-YOLO (Plant Disese Detection System) ** – MERN + Python + RaspberryPi + LLM [meta/llama] + OpenAI  
 - ** HyperScrope (News App) ** – React Native [Expo] + newsApi.org
-- ** BioNova (landing page for Bio Tech Bussiness) ** - REACT + FRAMER + TailwindCss = created By [GitHub Profile](https://github.com/ariexxe)
+- ** BioNova (landing page for Bio Tech Bussiness) ** - REACT + FRAMER + TailwindCss = created By [ariexxe](https://github.com/ariexxe)
 
 > Check out my pinned projects for live demos and code!
 
