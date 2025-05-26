@@ -1,15 +1,13 @@
 # 💫 About Me
 
 Hi, I'm **John Mark Pulmano** – a passionate Full Stack Developer and Tech Enthusiast.  
-I'm currently focused on building high-performance **mobile apps** and **responsive web applications**.  
+I'm currently focused on building high-performance **AI Application and System** **mobile apps** and **responsive web applications**.  
 🚀 I thrive on solving complex problems and creating meaningful digital experiences.
 
 - 🔭 Currently working on Mobile Apps and Web Projects  
 - 🤝 Open to Collaborating on Open Source Projects  
-- 🧠 Eager to learn more about Mobile App Architectures and Scalable Backend Systems  
-- 🧩 Ask me anything about Full Stack Development or cross-platform tools  
-- 📝 Occasionally blog about development tips and dev life  
-- 🎮 Gamer at heart, streamer on the side  
+- 🧠 Eager to learn more about AI, Mobile App Architectures and Scalable Backend Systems  
+- 🎮 Gamer 
 
 ---
 
@@ -20,7 +18,7 @@ I'm currently focused on building high-performance **mobile apps** and **respons
 - 🧪 Testing: Jest, Cypress, Mocha  
 - 🔐 Secure DevOps Practices, OAuth, JWT  
 - 🌐 Deployments on: AWS, Firebase, Render, Vercel  
-- 🎨 UI/UX: Figma, Framer, Chakra UI, TailwindCSS  
+- 🎨 UI/UX: Figma, Framer, UI, TailwindCSS  
 
 ---
 
